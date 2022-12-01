@@ -35,7 +35,7 @@ Here are some ideas to get you started:
 
 <h4 align="left">Databases:</h4>
 <p align="left">
-<a href="https://www.sqlite.org/" target="_blank"> <img src="https://www.vectorlogo.zone/logos/sqlite/sqlite-icon.svg" alt="sqlite" width="40" height="40"/> </a>
+<a href="https://www.w3schools.blog/oracle-tutorial" target="_blank"> <img src="https://w7.pngwing.com/pngs/1011/424/png-transparent-oracle-database-oracle-corporation-relational-database-management-system-postgresql-oracle-logo-angle-text-logo-thumbnail.png" alt="oracle" width="40" height="40"/> </a>
 <a href="https://www.mysql.com/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/>
 <a href="https://www.mongodb.com/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" alt="mongodb" width="40" height="40"/> </a>
  <h4 align="left">Python:</h4>
