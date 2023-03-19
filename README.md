@@ -22,7 +22,7 @@ Here are some ideas to get you started:
 💬 Ask me about anything, I am happy to help.</br>
 📫 Please email via nikhilthammana@gmail.com to reach me.</br>
 <!--🌍 Please vist my <a href="https://vishalsingh17.github.io/vs17-portfolio/">website</a>.</br>-->
-📝 See my <a href="https://docs.google.com/document/d/1OCmEf-G3CkbBfbGowpqUKM99T_HJqP_P/edit?usp=sharing&ouid=117210461331944519821&rtpof=true&sd=true">Resume</a> to get more info.</br></h6>
+📝 See my <a>Resume</a> to get more info.</br></h6>
 
 
 
